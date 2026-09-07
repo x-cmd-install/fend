@@ -5,7 +5,7 @@ about:
   head: d9cb764
   archived: false
   latestVersion: "v1.5.8"
-  collectedAt: 2026-09-07T05:38:52Z
+  collectedAt: 2026-09-07T18:55:51Z
 timeline:
   created: 2020-07-31
   lastCommit: 2026-08-28
@@ -85,7 +85,7 @@ total:
   commit: 2044
 ---
 path: /home/runner/.x-repo/github.com/printfn/fend
-collectedAt: 2026-09-07T05:38:53Z
+collectedAt: 2026-09-07T18:55:53Z
 loc:
   Rust:
     code: 20875
@@ -290,7 +290,7 @@ checks:
       - 'Warn: 0 commits out of 8 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:38:54+00:00
+  collectedAt: 2026-09-07T18:55:54+00:00
   platform:
     darwin/arm64:
       name:  fend-1.5.8-macos-aarch64.zip
