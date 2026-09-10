@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.5.8"
   latestRelease: "v1.5.8"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:56:09Z
+  collectedAt: 2026-09-10T20:24:31Z
 timeline:
   created: 2020-07-31
   lastCommit: 2026-08-28
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-01-24
   lastPrerelease: 
 popularity:
-  star: 1032
+  star: 1033
   watcher: 9
   fork: 72
   release: 67
@@ -89,7 +89,7 @@ total:
   commit: 2044
 ---
 path: /home/runner/.x-repo/github.com/printfn/fend
-collectedAt: 2026-09-10T05:56:13Z
+collectedAt: 2026-09-10T20:24:33Z
 loc:
   Rust:
     code: 20875

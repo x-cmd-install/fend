@@ -1,0 +1,200 @@
+- repo: nix_stable_25_11
+  srcname: fend
+  visiblename: fend
+  version: 1.5.7
+  origversion: null
+  status: outdated
+  summary: Arbitrary-precision unit-aware calculator
+  maintainers:
+    - djanatyn@gmail.com
+    - liff@iki.fi
+  licenses:
+    - MIT
+- repo: aosc
+  srcname: app-utils/fend
+  binname: fend
+  visiblename: fend
+  version: 1.5.6
+  origversion: null
+  status: outdated
+  summary: A multi-function command-line calculator
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - utils
+- repo: aur
+  srcname: fend
+  binname: fend
+  visiblename: fend
+  version: 1.5.8
+  origversion: 1.5.8-1
+  status: newest
+  summary: Arbitrary-precision unit-aware calculator
+  maintainers:
+    - printfn@aur
+    - funami@aur
+    - nickgeek@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: fend-bin
+  binname: fend-bin
+  visiblename: fend-bin
+  version: 1.5.8
+  origversion: 1.5.8-1
+  status: newest
+  summary: Arbitrary-precision unit-aware calculator
+  maintainers:
+    - funami@aur
+  licenses:
+    - MIT
+- repo: chocolatey
+  binname: fend
+  visiblename: fend - Arbitary-Precision Unit-Aware Calculator
+  version: 1.5.8
+  origversion: null
+  status: newest
+  summary: Arbitary-precision unit-aware calculator
+- repo: chocolatey
+  binname: fend.install
+  visiblename: fend - Arbitary-Precision Unit-Aware Calculator (Install)
+  version: 1.5.8
+  origversion: null
+  status: newest
+  summary: Arbitary-precision unit-aware calculator
+- repo: chocolatey
+  binname: fend.portable
+  visiblename: fend - Arbitary-Precision Unit-Aware Calculator (Portable)
+  version: 1.5.8
+  origversion: null
+  status: newest
+  summary: Arbitary-precision unit-aware calculator
+- repo: crates_io
+  srcname: fend
+  visiblename: fend
+  version: 1.5.8
+  origversion: null
+  status: newest
+  summary: Arbitrary-precision unit-aware calculator
+- repo: freebsd
+  srcname: math/fend
+  binname: fend
+  visiblename: math/fend
+  version: 1.5.8
+  origversion: 1.5.8_6
+  status: newest
+  summary: Arbitrary-precision unit-aware calculator
+  maintainers:
+    - yuri@freebsd.org
+  categories:
+    - math
+- repo: homebrew
+  srcname: fend
+  visiblename: fend
+  version: 1.5.8
+  origversion: null
+  status: newest
+  summary: Arbitrary-precision unit-aware calculator
+- repo: homebrew
+  srcname: fend
+  visiblename: fend
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Arbitrary-precision unit-aware calculator
+- repo: macports
+  srcname: math/fend
+  binname: fend
+  visiblename: fend
+  version: 1.5.8
+  origversion: null
+  status: newest
+  summary: Arbitrary-precision unit-aware calculator
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - MIT
+  categories:
+    - math
+- repo: nix_stable_24_05
+  srcname: fend
+  visiblename: fend
+  version: 1.4.9
+  origversion: null
+  status: outdated
+  summary: Arbitrary-precision unit-aware calculator
+  maintainers:
+    - djanatyn@gmail.com
+    - liff@iki.fi
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: fend
+  visiblename: fend
+  version: 1.5.3
+  origversion: null
+  status: outdated
+  summary: Arbitrary-precision unit-aware calculator
+  maintainers:
+    - djanatyn@gmail.com
+    - liff@iki.fi
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: fend
+  visiblename: fend
+  version: 1.5.6
+  origversion: null
+  status: outdated
+  summary: Arbitrary-precision unit-aware calculator
+  maintainers:
+    - djanatyn@gmail.com
+    - liff@iki.fi
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: fend
+  visiblename: fend
+  version: 1.5.8
+  origversion: null
+  status: newest
+  summary: Arbitrary-precision unit-aware calculator
+  maintainers:
+    - djanatyn@gmail.com
+    - liff@iki.fi
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: fend
+  visiblename: fend
+  version: 1.5.8
+  origversion: null
+  status: newest
+  summary: Arbitrary-precision unit-aware calculator
+  maintainers:
+    - djanatyn@gmail.com
+    - liff@iki.fi
+  licenses:
+    - MIT
+- repo: scoop
+  subrepo: main
+  binname: fend
+  visiblename: fend
+  version: 1.5.8
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: fend
+  binname: fend
+  visiblename: fend
+  version: 1.5.8
+  origversion: 1.5.8_1
+  status: newest
+  summary: Arbitrary-precision unit-aware calculator
+  maintainers:
+    - tranzystorek.io@protonmail.com
+  licenses:
+    - MIT
