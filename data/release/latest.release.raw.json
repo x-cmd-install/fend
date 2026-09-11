@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2563336,
       "digest": "sha256:ec745c759ab970c050e21ad08ce33b7e746256bede87f2e7f73db6ea61e74a00",
-      "download_count": 269,
+      "download_count": 272,
       "created_at": "2026-01-24T04:14:50Z",
       "updated_at": "2026-01-24T04:14:51Z",
       "browser_download_url": "https://github.com/printfn/fend/releases/download/v1.5.8/fend-1.5.8-linux-aarch64-gnu.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2655890,
       "digest": "sha256:c23b490e503cdb94e8398c6d5275874f80b51a2090311a9694eb3a791e1706e8",
-      "download_count": 464,
+      "download_count": 466,
       "created_at": "2026-01-24T04:14:50Z",
       "updated_at": "2026-01-24T04:14:51Z",
       "browser_download_url": "https://github.com/printfn/fend/releases/download/v1.5.8/fend-1.5.8-linux-x86_64-gnu.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2761244,
       "digest": "sha256:6253eb9c4ee3cf9f9ccf27dd42ee4d6565312c90afdf1459def041097bf4ee23",
-      "download_count": 193,
+      "download_count": 194,
       "created_at": "2026-01-24T04:14:50Z",
       "updated_at": "2026-01-24T04:14:51Z",
       "browser_download_url": "https://github.com/printfn/fend/releases/download/v1.5.8/fend-1.5.8-linux-x86_64-musl.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2494675,
       "digest": "sha256:b32a4ac9d8d10e998ad934f0a0b83e4a46b45225312dcd8ae510a067fa91789c",
-      "download_count": 1269,
+      "download_count": 1272,
       "created_at": "2026-01-24T04:14:50Z",
       "updated_at": "2026-01-24T04:14:51Z",
       "browser_download_url": "https://github.com/printfn/fend/releases/download/v1.5.8/fend-1.5.8-windows-x64-exe.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2678784,
       "digest": "sha256:56f6060ca5844d23fbea4973e26f8913b289574d765e8f84a2e37b6a1f1e60c0",
-      "download_count": 1823,
+      "download_count": 1826,
       "created_at": "2026-01-24T04:14:52Z",
       "updated_at": "2026-01-24T04:14:53Z",
       "browser_download_url": "https://github.com/printfn/fend/releases/download/v1.5.8/fend-1.5.8-windows-x64.msi"
