@@ -4,7 +4,7 @@
 
 Arbitrary-precision unit-aware calculator
 
-[![x-cmd/install — fend Code Quality Monitoring Repo Card](https://repo.x-cmd.io/fend.svg)](https://x-cmd.com/install/fend)
+[![x-cmd/install — fend Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/fend.svg)](https://x-cmd.com/install/fend)
 
 ## Install
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,038 · **Forks**: 73 · **Open issues**: 181 · **Contributors**: 38
+- **Stars**: 1,041 · **Forks**: 73 · **Open issues**: 181 · **Contributors**: 38
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 1 |
-| last60d | 2026-07-24 | 0 | 0 | 7 | 0 | 0 | 1 |
-| 90d | 2026-06-24 | 0 | 0 | 10 | 0 | 1 | 3 |
-| last180d | 2026-03-26 | 0 | 0 | 12 | 0 | 3 | 8 |
-| 360d | 2025-09-27 | 1 | 3 | 12 | 0 | 12 | 23 |
-| last720d | 2024-10-02 | 5 | 20 | 13 | 14 | 25 | 171 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last60d | 2026-07-25 | 0 | 0 | 7 | 0 | 0 | 1 |
+| 90d | 2026-06-25 | 0 | 0 | 10 | 0 | 1 | 3 |
+| last180d | 2026-03-27 | 0 | 0 | 12 | 0 | 3 | 8 |
+| 360d | 2025-09-28 | 1 | 3 | 12 | 0 | 12 | 23 |
+| last720d | 2024-10-03 | 5 | 19 | 13 | 14 | 25 | 169 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for fend lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:12:59Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:12:44Z._
