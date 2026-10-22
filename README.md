@@ -14,24 +14,24 @@ x install fend
 
 ## Code insight
 
-Total: **26,964** lines of code across **86** files in the top 5 languages.
+Total: **27,107** lines of code across **86** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Rust | 20,875 | 403 | 2,489 | 55 |
-| Json | 4,523 | 0 | 4 | 8 |
+| Json | 4,666 | 0 | 4 | 8 |
 | TypeScript | 524 | 11 | 59 | 11 |
 | Sh | 318 | 22 | 65 | 7 |
 | Tsx | 173 | 8 | 12 | 5 |
 
 ## OpenSSF Scorecard
 
-Overall score: **3.8 / 10**
+Overall score: **3.9 / 10**
 
 Lowest-scoring checks:
 
 - **Code-Review** (1/10) — Found 4/26 approved changesets -- score normalized to 1
-- **Maintained** (2/10) — 3 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 2
+- **Maintained** (3/10) — 4 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
@@ -42,40 +42,40 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.5.8` (2026-01-24)
-- **Last commit**: 2026-08-28
+- **Latest**: `v1.5.9` (2026-10-21)
+- **Last commit**: 2026-10-21
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 1,054 · **Forks**: 74 · **Open issues**: 182 · **Contributors**: 38
+- **Stars**: 1,055 · **Forks**: 75 · **Open issues**: 182 · **Contributors**: 38
 
 ## Totals (cumulative)
 
-- **Releases**: 67 · **Merged PRs**: 169 · **Open PRs**: 14 · **Closed issues**: 119 · **Open issues**: 63 · **Commits**: 2044
+- **Releases**: 68 · **Merged PRs**: 169 · **Open PRs**: 15 · **Closed issues**: 119 · **Open issues**: 63 · **Commits**: 2047
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-08-22 | 0 | 0 | 1 | 0 | 1 | 1 |
-| 90d | 2026-07-23 | 0 | 0 | 8 | 0 | 1 | 1 |
-| last180d | 2026-04-24 | 0 | 0 | 13 | 0 | 3 | 7 |
-| 360d | 2025-10-26 | 1 | 3 | 13 | 0 | 10 | 23 |
-| last720d | 2024-10-31 | 4 | 13 | 13 | 12 | 26 | 127 |
+| 30d | 2026-09-22 | 1 | 0 | 2 | 0 | 1 | 3 |
+| last60d | 2026-08-23 | 1 | 0 | 2 | 0 | 1 | 4 |
+| 90d | 2026-07-24 | 1 | 0 | 9 | 0 | 1 | 4 |
+| last180d | 2026-04-25 | 1 | 0 | 14 | 0 | 3 | 10 |
+| 360d | 2025-10-27 | 2 | 3 | 14 | 0 | 10 | 26 |
+| last720d | 2024-11-01 | 5 | 13 | 14 | 12 | 26 | 130 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [fend-1.5.8-linux-aarch64-gnu.zip](https://github.com/printfn/fend/releases/download/v1.5.8/fend-1.5.8-linux-aarch64-gnu.zip) | 2.4 MiB | `native/linux/arm64/glibc` |
-| [fend-1.5.8-linux-x86_64-gnu.zip](https://github.com/printfn/fend/releases/download/v1.5.8/fend-1.5.8-linux-x86_64-gnu.zip) | 2.5 MiB | `native/linux/x64/glibc` |
-| [fend-1.5.8-linux-x86_64-musl.zip](https://github.com/printfn/fend/releases/download/v1.5.8/fend-1.5.8-linux-x86_64-musl.zip) | 2.6 MiB | `native/linux/x64/musl` |
-| [fend-1.5.8-macos-aarch64.zip](https://github.com/printfn/fend/releases/download/v1.5.8/fend-1.5.8-macos-aarch64.zip) | 2.3 MiB | `native/darwin/arm64` |
-| [fend-1.5.8-windows-x64-exe.zip](https://github.com/printfn/fend/releases/download/v1.5.8/fend-1.5.8-windows-x64-exe.zip) | 2.4 MiB | `native/win/x64` |
-| [fend-1.5.8-windows-x64.msi](https://github.com/printfn/fend/releases/download/v1.5.8/fend-1.5.8-windows-x64.msi) | 2.6 MiB | `native/win/x64` |
-| [fend.1](https://github.com/printfn/fend/releases/download/v1.5.8/fend.1) | 50.6 KiB | `other` |
+| [fend-1.5.9-linux-aarch64-gnu.zip](https://github.com/printfn/fend/releases/download/v1.5.9/fend-1.5.9-linux-aarch64-gnu.zip) | 2.1 MiB | `native/linux/arm64/glibc` |
+| [fend-1.5.9-linux-x86_64-gnu.zip](https://github.com/printfn/fend/releases/download/v1.5.9/fend-1.5.9-linux-x86_64-gnu.zip) | 2.2 MiB | `native/linux/x64/glibc` |
+| [fend-1.5.9-linux-x86_64-musl.zip](https://github.com/printfn/fend/releases/download/v1.5.9/fend-1.5.9-linux-x86_64-musl.zip) | 2.3 MiB | `native/linux/x64/musl` |
+| [fend-1.5.9-macos-aarch64.zip](https://github.com/printfn/fend/releases/download/v1.5.9/fend-1.5.9-macos-aarch64.zip) | 1.9 MiB | `native/darwin/arm64` |
+| [fend-1.5.9-windows-x64-exe.zip](https://github.com/printfn/fend/releases/download/v1.5.9/fend-1.5.9-windows-x64-exe.zip) | 2.1 MiB | `native/win/x64` |
+| [fend-1.5.9-windows-x64.msi](https://github.com/printfn/fend/releases/download/v1.5.9/fend-1.5.9-windows-x64.msi) | 2.3 MiB | `native/win/x64` |
+| [fend.1](https://github.com/printfn/fend/releases/download/v1.5.9/fend.1) | 50.6 KiB | `other` |
 
 ## Improve this data
 
@@ -86,4 +86,4 @@ Install metadata for fend lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:42:17Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:37:29Z._
