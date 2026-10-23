@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 0 | 2 | 0 | 1 | 3 |
-| last60d | 2026-08-23 | 1 | 0 | 2 | 0 | 1 | 4 |
-| 90d | 2026-07-24 | 1 | 0 | 9 | 0 | 1 | 4 |
-| last180d | 2026-04-25 | 1 | 0 | 14 | 0 | 3 | 10 |
-| 360d | 2025-10-27 | 2 | 3 | 14 | 0 | 10 | 26 |
-| last720d | 2024-11-01 | 5 | 13 | 14 | 12 | 26 | 130 |
+| 30d | 2026-09-23 | 1 | 0 | 2 | 0 | 1 | 3 |
+| last60d | 2026-08-24 | 1 | 0 | 2 | 0 | 1 | 4 |
+| 90d | 2026-07-25 | 1 | 0 | 9 | 0 | 1 | 4 |
+| last180d | 2026-04-26 | 1 | 0 | 14 | 0 | 3 | 10 |
+| 360d | 2025-10-28 | 2 | 3 | 14 | 0 | 10 | 26 |
+| last720d | 2024-11-02 | 5 | 13 | 14 | 12 | 26 | 129 |
 
 ## Release assets
 
@@ -77,6 +77,16 @@ Lowest-scoring checks:
 | [fend-1.5.9-windows-x64.msi](https://github.com/printfn/fend/releases/download/v1.5.9/fend-1.5.9-windows-x64.msi) | 2.3 MiB | `native/win/x64` |
 | [fend.1](https://github.com/printfn/fend/releases/download/v1.5.9/fend.1) | 50.6 KiB | `other` |
 
+## Distribution status
+
+Reported by **19** distros on [repology.org](https://repology.org/project/fend). **7** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `1.5.9` | ✅ latest |
+| Nix unstable | `1.5.8` | ⚠️ outdated |
+| Void | `1.5.9` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for fend lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `fend` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -86,4 +96,4 @@ Install metadata for fend lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:37:29Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:46:06Z._
