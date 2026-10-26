@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,057 · **Forks**: 75 · **Open issues**: 182 · **Contributors**: 38
+- **Stars**: 1,058 · **Forks**: 76 · **Open issues**: 182 · **Contributors**: 38
 
 ## Totals (cumulative)
 
-- **Releases**: 68 · **Merged PRs**: 169 · **Open PRs**: 15 · **Closed issues**: 119 · **Open issues**: 63 · **Commits**: 2048
+- **Releases**: 68 · **Merged PRs**: 169 · **Open PRs**: 16 · **Closed issues**: 119 · **Open issues**: 63 · **Commits**: 2048
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 1 | 0 | 2 | 0 | 1 | 4 |
-| last60d | 2026-08-26 | 1 | 0 | 2 | 0 | 1 | 4 |
-| 90d | 2026-07-27 | 1 | 0 | 9 | 0 | 1 | 5 |
-| last180d | 2026-04-28 | 1 | 0 | 14 | 0 | 3 | 11 |
-| 360d | 2025-10-30 | 2 | 3 | 14 | 0 | 10 | 27 |
-| last720d | 2024-11-04 | 5 | 13 | 14 | 11 | 25 | 126 |
+| 30d | 2026-09-26 | 1 | 0 | 3 | 0 | 1 | 4 |
+| last60d | 2026-08-27 | 1 | 0 | 3 | 0 | 1 | 4 |
+| 90d | 2026-07-28 | 1 | 0 | 10 | 0 | 1 | 5 |
+| last180d | 2026-04-29 | 1 | 0 | 15 | 0 | 3 | 11 |
+| 360d | 2025-10-31 | 2 | 3 | 15 | 0 | 10 | 27 |
+| last720d | 2024-11-05 | 5 | 13 | 15 | 11 | 25 | 126 |
 
 ## Release assets
 
@@ -79,11 +79,11 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **19** distros on [repology.org](https://repology.org/project/fend). **8** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
+Reported by **19** distros on [repology.org](https://repology.org/project/fend). **11** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `1.5.9` | ✅ latest |
 | Nix unstable | `1.5.8` | ⚠️ outdated |
 | Void | `1.5.9` | ✅ latest |
 
@@ -96,4 +96,4 @@ Install metadata for fend lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:33:33Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:39:30Z._
