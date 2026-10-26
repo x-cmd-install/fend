@@ -1,17 +1,3 @@
-- repo: homebrew
-  srcname: fend
-  visiblename: fend
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Arbitrary-precision unit-aware calculator
-- repo: homebrew
-  srcname: fend
-  visiblename: fend
-  version: 1.5.9
-  origversion: null
-  status: newest
-  summary: Arbitrary-precision unit-aware calculator
 - repo: aosc
   srcname: app-utils/fend
   binname: fend
@@ -53,23 +39,23 @@
 - repo: chocolatey
   binname: fend
   visiblename: fend - Arbitary-Precision Unit-Aware Calculator
-  version: 1.5.8
+  version: 1.5.9
   origversion: null
-  status: outdated
+  status: newest
   summary: Arbitary-precision unit-aware calculator
 - repo: chocolatey
   binname: fend.install
   visiblename: fend - Arbitary-Precision Unit-Aware Calculator (Install)
-  version: 1.5.8
+  version: 1.5.9
   origversion: null
-  status: outdated
+  status: newest
   summary: Arbitary-precision unit-aware calculator
 - repo: chocolatey
   binname: fend.portable
   visiblename: fend - Arbitary-Precision Unit-Aware Calculator (Portable)
-  version: 1.5.8
+  version: 1.5.9
   origversion: null
-  status: outdated
+  status: newest
   summary: Arbitary-precision unit-aware calculator
 - repo: crates_io
   srcname: fend
@@ -90,6 +76,20 @@
     - yuri@freebsd.org
   categories:
     - math
+- repo: homebrew
+  srcname: fend
+  visiblename: fend
+  version: 1.5.9
+  origversion: null
+  status: newest
+  summary: Arbitrary-precision unit-aware calculator
+- repo: homebrew
+  srcname: fend
+  visiblename: fend
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Arbitrary-precision unit-aware calculator
 - repo: macports
   srcname: math/fend
   binname: fend
