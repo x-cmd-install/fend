@@ -26,12 +26,12 @@ Total: **27,107** lines of code across **86** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.9 / 10**
+Overall score: **4 / 10**
 
 Lowest-scoring checks:
 
 - **Code-Review** (1/10) — Found 4/26 approved changesets -- score normalized to 1
-- **Maintained** (3/10) — 4 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 3
+- **Maintained** (4/10) — 5 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 4
 - **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 1 | 0 | 3 | 0 | 1 | 4 |
-| last60d | 2026-08-28 | 1 | 0 | 3 | 0 | 1 | 4 |
-| 90d | 2026-07-29 | 1 | 0 | 10 | 0 | 1 | 5 |
-| last180d | 2026-04-30 | 1 | 0 | 15 | 0 | 3 | 11 |
-| 360d | 2025-11-01 | 2 | 3 | 15 | 0 | 10 | 27 |
-| last720d | 2024-11-06 | 5 | 13 | 15 | 11 | 25 | 126 |
+| 30d | 2026-09-28 | 1 | 0 | 3 | 0 | 1 | 4 |
+| last60d | 2026-08-29 | 1 | 0 | 3 | 0 | 1 | 4 |
+| 90d | 2026-07-30 | 1 | 0 | 10 | 0 | 1 | 5 |
+| last180d | 2026-05-01 | 1 | 0 | 15 | 0 | 3 | 11 |
+| 360d | 2025-11-02 | 2 | 3 | 15 | 0 | 10 | 27 |
+| last720d | 2024-11-07 | 5 | 13 | 15 | 11 | 25 | 126 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for fend lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T06:06:01Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T06:40:11Z._
