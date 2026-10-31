@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 1 | 0 | 3 | 0 | 1 | 4 |
-| last60d | 2026-08-31 | 1 | 0 | 3 | 0 | 1 | 4 |
-| 90d | 2026-08-01 | 1 | 0 | 10 | 0 | 1 | 5 |
-| last180d | 2026-05-03 | 1 | 0 | 15 | 0 | 3 | 11 |
-| 360d | 2025-11-04 | 2 | 3 | 15 | 0 | 10 | 27 |
-| last720d | 2024-11-09 | 5 | 13 | 15 | 11 | 25 | 126 |
+| 30d | 2026-10-01 | 1 | 0 | 3 | 0 | 1 | 4 |
+| last60d | 2026-09-01 | 1 | 0 | 3 | 0 | 1 | 4 |
+| 90d | 2026-08-02 | 1 | 0 | 10 | 0 | 1 | 5 |
+| last180d | 2026-05-04 | 1 | 0 | 15 | 0 | 3 | 11 |
+| 360d | 2025-11-05 | 2 | 3 | 15 | 0 | 10 | 27 |
+| last720d | 2024-11-10 | 5 | 13 | 15 | 11 | 25 | 126 |
 
 ## Release assets
 
@@ -79,12 +79,12 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **19** distros on [repology.org](https://repology.org/project/fend). **11** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+Reported by **19** distros on [repology.org](https://repology.org/project/fend). **12** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Homebrew | `1.5.9` | ✅ latest |
-| Nix unstable | `1.5.8` | ⚠️ outdated |
+| Nix unstable | `1.5.9` | ✅ latest |
 | Void | `1.5.9` | ✅ latest |
 
 ## Improve this data
@@ -96,4 +96,4 @@ Install metadata for fend lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T06:41:26Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T06:41:25Z._
