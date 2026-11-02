@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,060 · **Forks**: 77 · **Open issues**: 182 · **Contributors**: 38
+- **Stars**: 1,059 · **Forks**: 77 · **Open issues**: 182 · **Contributors**: 38
 
 ## Totals (cumulative)
 
-- **Releases**: 68 · **Merged PRs**: 169 · **Open PRs**: 17 · **Closed issues**: 119 · **Open issues**: 63 · **Commits**: 2048
+- **Releases**: 68 · **Merged PRs**: 169 · **Open PRs**: 18 · **Closed issues**: 119 · **Open issues**: 63 · **Commits**: 2048
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 1 | 0 | 4 | 0 | 0 | 4 |
-| last60d | 2026-09-02 | 1 | 0 | 4 | 0 | 1 | 4 |
-| 90d | 2026-08-03 | 1 | 0 | 11 | 0 | 1 | 5 |
-| last180d | 2026-05-05 | 1 | 0 | 16 | 0 | 3 | 11 |
-| 360d | 2025-11-06 | 2 | 3 | 16 | 0 | 10 | 26 |
-| last720d | 2024-11-11 | 5 | 13 | 16 | 11 | 25 | 126 |
+| 30d | 2026-10-03 | 1 | 0 | 5 | 0 | 0 | 4 |
+| last60d | 2026-09-03 | 1 | 0 | 5 | 0 | 1 | 4 |
+| 90d | 2026-08-04 | 1 | 0 | 11 | 0 | 1 | 5 |
+| last180d | 2026-05-06 | 1 | 0 | 17 | 0 | 3 | 11 |
+| 360d | 2025-11-07 | 2 | 3 | 17 | 0 | 10 | 26 |
+| last720d | 2024-11-12 | 5 | 13 | 17 | 11 | 25 | 123 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for fend lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T07:00:03Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:07:03Z._
