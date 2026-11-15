@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,066 · **Forks**: 76 · **Open issues**: 183 · **Contributors**: 38
+- **Stars**: 1,067 · **Forks**: 75 · **Open issues**: 183 · **Contributors**: 38
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 1 | 0 | 5 | 0 | 1 | 4 |
-| last60d | 2026-09-15 | 1 | 0 | 5 | 0 | 2 | 4 |
-| 90d | 2026-08-16 | 1 | 0 | 7 | 0 | 2 | 5 |
-| last180d | 2026-05-18 | 1 | 0 | 17 | 0 | 4 | 11 |
-| 360d | 2025-11-19 | 2 | 3 | 17 | 0 | 11 | 24 |
-| last720d | 2024-11-24 | 4 | 12 | 17 | 11 | 26 | 112 |
+| 30d | 2026-10-16 | 1 | 0 | 5 | 0 | 1 | 4 |
+| last60d | 2026-09-16 | 1 | 0 | 5 | 0 | 2 | 4 |
+| 90d | 2026-08-17 | 1 | 0 | 7 | 0 | 2 | 5 |
+| last180d | 2026-05-19 | 1 | 0 | 17 | 0 | 4 | 11 |
+| 360d | 2025-11-20 | 2 | 3 | 17 | 0 | 11 | 24 |
+| last720d | 2024-11-25 | 4 | 12 | 17 | 11 | 26 | 112 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for fend lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T07:55:13Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T07:41:35Z._
