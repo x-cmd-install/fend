@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 1 | 0 | 3 | 0 | 1 | 1 |
-| last60d | 2026-09-21 | 1 | 0 | 5 | 0 | 2 | 4 |
-| 90d | 2026-08-22 | 1 | 0 | 5 | 0 | 2 | 5 |
-| last180d | 2026-05-24 | 1 | 0 | 17 | 0 | 4 | 11 |
-| 360d | 2025-11-25 | 2 | 3 | 17 | 0 | 10 | 24 |
-| last720d | 2024-11-30 | 4 | 12 | 17 | 11 | 24 | 110 |
+| 30d | 2026-10-22 | 0 | 0 | 3 | 0 | 1 | 1 |
+| last60d | 2026-09-22 | 1 | 0 | 5 | 0 | 2 | 4 |
+| 90d | 2026-08-23 | 1 | 0 | 5 | 0 | 2 | 5 |
+| last180d | 2026-05-25 | 1 | 0 | 17 | 0 | 4 | 11 |
+| 360d | 2025-11-26 | 2 | 3 | 17 | 0 | 10 | 24 |
+| last720d | 2024-12-01 | 4 | 12 | 17 | 11 | 24 | 110 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for fend lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T08:36:40Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:49:15Z._
