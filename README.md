@@ -48,12 +48,12 @@ Total: **27,107** lines of code across **86** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last60d | 2026-09-25 | 1 | 0 | 5 | 0 | 2 | 4 |
-| 90d | 2026-08-26 | 1 | 0 | 5 | 0 | 2 | 4 |
-| last180d | 2026-05-28 | 1 | 0 | 17 | 0 | 4 | 11 |
-| 360d | 2025-11-29 | 2 | 3 | 17 | 0 | 10 | 24 |
-| last720d | 2024-12-04 | 4 | 12 | 17 | 11 | 24 | 110 |
+| 30d | 2026-10-26 | 0 | 0 | 2 | 0 | 1 | 0 |
+| last60d | 2026-09-26 | 1 | 0 | 5 | 0 | 2 | 4 |
+| 90d | 2026-08-27 | 1 | 0 | 5 | 0 | 2 | 4 |
+| last180d | 2026-05-29 | 1 | 0 | 15 | 0 | 3 | 11 |
+| 360d | 2025-11-30 | 2 | 3 | 17 | 0 | 10 | 24 |
+| last720d | 2024-12-05 | 4 | 12 | 17 | 11 | 24 | 110 |
 
 ## Release assets
 
@@ -67,16 +67,6 @@ Total: **27,107** lines of code across **86** files in the top 5 languages.
 | [fend-1.5.9-windows-x64.msi](https://github.com/printfn/fend/releases/download/v1.5.9/fend-1.5.9-windows-x64.msi) | 2.3 MiB | `native/win/x64` |
 | [fend.1](https://github.com/printfn/fend/releases/download/v1.5.9/fend.1) | 50.6 KiB | `other` |
 
-## Distribution status
-
-Reported by **19** distros on [repology.org](https://repology.org/project/fend). **12** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `1.5.9` | ✅ latest |
-| Nix unstable | `1.5.9` | ✅ latest |
-| Void | `1.5.9` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for fend lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `fend` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -86,4 +76,4 @@ Install metadata for fend lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:52:49Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:11:45Z._
